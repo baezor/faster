@@ -1,6 +1,4 @@
-# Presspack
-
-> Make Wordpress theme development great again.
+# FASTER
 
 ## Features
 
@@ -115,6 +113,3 @@ new BrowserSyncPlugin({
         ├── Router.js            # HTML5 Router, DO NOT TOUCH
         └── camelCase.js         # Helper function for Router, DO NOT TOUCH
 ```
-
-#### Author
-- Jared Palmer [@jaredpalmer](https://twitter.com/jaredpalmer)
